@@ -1,0 +1,11 @@
+2020-07-22 02:33:50.819  INFO 5324 --- [main] com.listen.springboot.ApplicationTests   : Starting ApplicationTests on FlyMonkey with PID 5324 (started by Administrator in E:\动力节点学习资料\javaProject\javaProject6-LeiFengYang-SpringBoot\003-springboot-logging)
+2020-07-22 02:33:50.820 DEBUG 5324 --- [main] com.listen.springboot.ApplicationTests   : Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-22 02:33:50.821  INFO 5324 --- [main] com.listen.springboot.ApplicationTests   : No active profile set, falling back to default profiles: default
+2020-07-22 02:33:51.735  INFO 5324 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-22 02:33:51.976  INFO 5324 --- [main] com.listen.springboot.ApplicationTests   : Started ApplicationTests in 1.5 seconds (JVM running for 2.48)
+2020-07-22 02:33:52.149 DEBUG 5324 --- [main] com.listen.springboot.ApplicationTests   : 这是trace日志
+2020-07-22 02:33:52.149 DEBUG 5324 --- [main] com.listen.springboot.ApplicationTests   : 这是debug日志
+2020-07-22 02:33:52.149  INFO 5324 --- [main] com.listen.springboot.ApplicationTests   : 这是info日志
+2020-07-22 02:33:52.150  WARN 5324 --- [main] com.listen.springboot.ApplicationTests   : 这是warn日志
+2020-07-22 02:33:52.150 ERROR 5324 --- [main] com.listen.springboot.ApplicationTests   : 这是error日志
+2020-07-22 02:33:52.174  INFO 5324 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
